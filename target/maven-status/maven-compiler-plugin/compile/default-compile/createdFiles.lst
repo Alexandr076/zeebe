@@ -1,0 +1,10 @@
+hu\dpc\rt\kafkastreamer\exporter\KafkaExporterMetrics.class
+hu\dpc\rt\kafkastreamer\exporter\NoOpExporter.class
+hu\dpc\rt\kafkastreamer\exporter\KafkaExporterException.class
+hu\dpc\rt\kafkastreamer\exporter\KafkaExporterConfiguration$1.class
+hu\dpc\rt\kafkastreamer\exporter\KafkaExporterConfiguration$AuthenticationConfiguration.class
+hu\dpc\rt\kafkastreamer\exporter\KafkaExporterConfiguration.class
+hu\dpc\rt\kafkastreamer\exporter\KafkaExporterConfiguration$IndexConfiguration.class
+hu\dpc\rt\kafkastreamer\exporter\KafkaExporterConfiguration$BulkConfiguration.class
+hu\dpc\rt\kafkastreamer\exporter\KafkaExporter.class
+hu\dpc\rt\kafkastreamer\exporter\KafkaExporterClient.class
