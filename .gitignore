@@ -1,7 +1,0 @@
-.idea
-*.iml
-target
-dependency-reduced-pom.xml
-
-build
-.gradle
